@@ -12,7 +12,7 @@ style.textContent = `
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: system-ui, -apple-system, sans-serif !important;
+    font-family: Georgia, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
     line-height: 1.6;
     max-width: 100%;
   }
@@ -22,7 +22,7 @@ style.textContent = `
     max-width: 768px;
     margin: 0 auto !important;
     color: #333;
-    font-size: 1.1rem;
+    font-size: 1.02rem;
     background-color: #f9f9f9;
   }
 
